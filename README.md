@@ -17,7 +17,7 @@
 ### 📫 Reach me:
 
 - **LinkedIn** : dendy juliano juanda
-- **Instagram** : dendy.juliano
+- **Instagram** : dendyjuliano23
 - **Phone** : +6287797824107
 - **E-mail** : dendyjuliano2019@gmail.com
 
