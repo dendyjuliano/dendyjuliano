@@ -23,7 +23,7 @@
 
 ### 🏠 Portofolio：
 
-- **[https://dendyjuliano.com/)**
+- **[https://dendyjuliano.com)**
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=dendyjuliano&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dendyjuliano&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
